@@ -1,6 +1,0 @@
-#ifndef CERTIFYCHAIN_TBC_BLOCK
-#define CERTIFYCHAIN_TBC_BLOCK
-
-
-
-#endif
